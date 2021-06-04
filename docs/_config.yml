@@ -1,1 +1,3 @@
 theme: jekyll-theme-minimal
+title: CIT 281 - Lab 4
+description: I created initial Fastify Node.js web server, initialized as a Node.js project folder using Node Package Manager (npm), added Fastify to project using npm, and test using Visual Studio Code (VSCode), added git repo, exclude node_modules folder from git, made commits, fixed MIME error, tested, and commited, and added a second route with query parameters, test, and commit.
